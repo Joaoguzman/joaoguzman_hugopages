@@ -1,0 +1,5 @@
+baseURL = "http://joaoguzman_hugopages.github.io/"
+languageCode = "en-us"
+title = "Pagina HUGO"
+
+theme='hugo-profile'
