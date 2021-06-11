@@ -1,0 +1,4 @@
+[submodule "joaoguzman_hugopages"]
+	path = joaoguzman_hugopages
+	url = https://github.com/Joaoguzman/joaoguzman_hugopages.git
+	branch = main
